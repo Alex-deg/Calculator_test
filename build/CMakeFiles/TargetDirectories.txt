@@ -1,0 +1,5 @@
+/home/alex/Протей/ДЗ №5 Tests/Calculator_test/build/CMakeFiles/CalcLib.dir
+/home/alex/Протей/ДЗ №5 Tests/Calculator_test/build/CMakeFiles/main.dir
+/home/alex/Протей/ДЗ №5 Tests/Calculator_test/build/CMakeFiles/test.dir
+/home/alex/Протей/ДЗ №5 Tests/Calculator_test/build/CMakeFiles/edit_cache.dir
+/home/alex/Протей/ДЗ №5 Tests/Calculator_test/build/CMakeFiles/rebuild_cache.dir
