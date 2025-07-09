@@ -274,6 +274,51 @@ CMakeFiles/main.dir/main.cpp.o: \
  /usr/include/gtest/gtest-test-part.h \
  /usr/include/gtest/gtest-typed-test.h \
  /usr/include/gtest/gtest_pred_impl.h /usr/include/gtest/gtest_prod.h \
+ /usr/include/gmock/gmock.h /usr/include/gmock/gmock-actions.h \
+ /usr/include/c++/13/algorithm \
+ /usr/include/c++/13/pstl/glue_algorithm_defs.h \
+ /usr/include/gmock/internal/gmock-internal-utils.h \
+ /usr/include/gmock/internal/gmock-port.h \
+ /usr/include/gmock/internal/custom/gmock-port.h \
+ /usr/include/gmock/internal/gmock-pp.h \
+ /usr/include/gmock/gmock-cardinalities.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/13/include/syslimits.h \
+ /usr/include/limits.h /usr/include/x86_64-linux-gnu/bits/posix1_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/local_lim.h \
+ /usr/include/linux/limits.h \
+ /usr/include/x86_64-linux-gnu/bits/posix2_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/xopen_lim.h \
+ /usr/include/x86_64-linux-gnu/bits/uio_lim.h \
+ /usr/include/gmock/gmock-function-mocker.h \
+ /usr/include/gmock/gmock-spec-builders.h \
+ /usr/include/gmock/gmock-matchers.h /usr/include/c++/13/cmath \
+ /usr/include/math.h /usr/include/x86_64-linux-gnu/bits/math-vector.h \
+ /usr/include/x86_64-linux-gnu/bits/libm-simd-decl-stubs.h \
+ /usr/include/x86_64-linux-gnu/bits/flt-eval-method.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-logb.h \
+ /usr/include/x86_64-linux-gnu/bits/fp-fast.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-helper-functions.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
+ /usr/include/x86_64-linux-gnu/bits/mathcalls-narrow.h \
+ /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
+ /usr/include/c++/13/bits/specfun.h /usr/include/c++/13/tr1/gamma.tcc \
+ /usr/include/c++/13/tr1/special_function_util.h \
+ /usr/include/c++/13/tr1/bessel_function.tcc \
+ /usr/include/c++/13/tr1/beta_function.tcc \
+ /usr/include/c++/13/tr1/ell_integral.tcc \
+ /usr/include/c++/13/tr1/exp_integral.tcc \
+ /usr/include/c++/13/tr1/hypergeometric.tcc \
+ /usr/include/c++/13/tr1/legendre_function.tcc \
+ /usr/include/c++/13/tr1/modified_bessel_func.tcc \
+ /usr/include/c++/13/tr1/poly_hermite.tcc \
+ /usr/include/c++/13/tr1/poly_laguerre.tcc \
+ /usr/include/c++/13/tr1/riemann_zeta.tcc \
+ /usr/include/gmock/internal/custom/gmock-matchers.h \
+ /usr/include/gmock/gmock-more-actions.h \
+ /usr/include/gmock/internal/custom/gmock-generated-actions.h \
+ /usr/include/gmock/gmock-more-matchers.h \
+ /usr/include/gmock/gmock-nice-strict.h \
  /home/alex/Протей/ДЗ\ №5\ Tests/Calculator_test/SimpleCalculator.h \
  /home/alex/Протей/ДЗ\ №5\ Tests/Calculator_test/ICalculator.h \
  /home/alex/Протей/ДЗ\ №5\ Tests/Calculator_test/InMemoryHistory.h \

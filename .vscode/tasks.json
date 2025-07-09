@@ -11,7 +11,11 @@
                 "InMemoryHistory.cpp",
                 "SimpleCalculator.cpp",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${fileDirname}/${fileBasenameNoExtension}",
+                "-lgtest",
+                "-I/usr/src/googletest/googletest/include/gtest/",
+                "-lgmock",
+                "-I/usr/src/googletest/googlemock/include/gmock"
             ],
             "options": {
                 "cwd": "${fileDirname}"
