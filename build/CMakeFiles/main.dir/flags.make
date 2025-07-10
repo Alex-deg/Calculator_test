@@ -6,5 +6,5 @@ CXX_DEFINES =
 
 CXX_INCLUDES = 
 
-CXX_FLAGS = -std=gnu++17 -DGTEST_HAS_PTHREAD=1
+CXX_FLAGS =  --coverage -std=gnu++17 -DGTEST_HAS_PTHREAD=1
 

@@ -274,6 +274,7 @@ CMakeFiles/main.dir/main.cpp.o: \
  /usr/include/gtest/gtest-test-part.h \
  /usr/include/gtest/gtest-typed-test.h \
  /usr/include/gtest/gtest_pred_impl.h /usr/include/gtest/gtest_prod.h \
+ /home/alex/Протей/ДЗ\ №5\ Tests/Calculator_test/Testing.h \
  /usr/include/gmock/gmock.h /usr/include/gmock/gmock-actions.h \
  /usr/include/c++/13/algorithm \
  /usr/include/c++/13/pstl/glue_algorithm_defs.h \
